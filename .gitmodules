@@ -4,3 +4,6 @@
 [submodule "BuildingListsAndNavigation"]
 	path = BuildingListsAndNavigation
 	url = https://github.com/tdrk18/SwiftUI-tutorial-BuildingListsAndNavigation
+[submodule "HandingUserInput"]
+	path = HandingUserInput
+	url = https://github.com/tdrk18/SwiftUI-tutorial-HandlingUserInput
