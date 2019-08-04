@@ -1,3 +1,6 @@
 [submodule "CreatingAndCombiningViews"]
 	path = CreatingAndCombiningViews
 	url = https://github.com/tdrk18/SwiftUI-tutorial-CreatingAndCombiningViews
+[submodule "BuildingListsAndNavigation"]
+	path = BuildingListsAndNavigation
+	url = https://github.com/tdrk18/SwiftUI-tutorial-BuildingListsAndNavigation
