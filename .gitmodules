@@ -7,3 +7,6 @@
 [submodule "HandingUserInput"]
 	path = HandingUserInput
 	url = https://github.com/tdrk18/SwiftUI-tutorial-HandlingUserInput
+[submodule "DrawingPathsAndShapes"]
+	path = DrawingPathsAndShapes
+	url = git@github.com:tdrk18/SwiftUI-tutorial-DrawingPathsAndShapes.git
