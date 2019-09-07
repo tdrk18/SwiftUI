@@ -13,3 +13,6 @@
 [submodule "AnimatingViewsAndTransitions"]
 	path = AnimatingViewsAndTransitions
 	url = git@github.com:tdrk18/SwiftUI-tutorial-AnimatingViewsAndTransitions.git
+[submodule "ComposingComplexInterfaces"]
+	path = ComposingComplexInterfaces
+	url = git@github.com:tdrk18/SwiftUI-tutorial-ComposingComplexInterfaces.git
