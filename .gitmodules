@@ -16,3 +16,6 @@
 [submodule "ComposingComplexInterfaces"]
 	path = ComposingComplexInterfaces
 	url = git@github.com:tdrk18/SwiftUI-tutorial-ComposingComplexInterfaces.git
+[submodule "WorkingWithUIControls"]
+	path = WorkingWithUIControls
+	url = git@github.com:tdrk18/SwiftUI-tutorial-WorkingWithUIControls.git
