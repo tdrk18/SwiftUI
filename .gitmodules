@@ -19,3 +19,6 @@
 [submodule "WorkingWithUIControls"]
 	path = WorkingWithUIControls
 	url = git@github.com:tdrk18/SwiftUI-tutorial-WorkingWithUIControls.git
+[submodule "InterfacingWithUIKit"]
+	path = InterfacingWithUIKit
+	url = git@github.com:tdrk18/SwiftUI-tutorial-InterfacingWithUIKit.git
